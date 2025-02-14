@@ -5,6 +5,7 @@ Welcome to SQL Practice! This repository contains a collection of SQL queries an
 📁 Project Structure
 
 📌 Week1.sql → SQL queries for Week 1, including data retrieval, joins, and window functions
+
 📌 Chinook_Sqlite.sqlite → Sample SQLite database used for query execution
 
 📊 Dataset Used: Chinook SQLite Database
